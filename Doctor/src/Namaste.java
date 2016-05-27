@@ -5,6 +5,7 @@ public class Namaste {
 		// TODO Auto-generated method stub
 			System.out.println("Namaste Doctor");
 			System.out.println("Salam");
+			System.out.println("Is it Working");
 	} 
 
 }
