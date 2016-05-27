@@ -6,6 +6,8 @@ public class Namaste {
 			System.out.println("Namaste Doctor");
 			System.out.println("Salam");
 			System.out.println("Is it Working");
+			System.out.println("Test 1");
+			
 	} 
 
 }
